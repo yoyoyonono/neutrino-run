@@ -1,7 +1,7 @@
 # neutrino-run
 because the run.bat is bad
 
-##usage
+## usage
 
 run run.py instead of run.bat
 
